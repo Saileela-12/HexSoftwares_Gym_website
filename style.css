@@ -194,3 +194,10 @@
     }
     
 }
+.footer-text i,
+.Timings i,
+.footer-points i {
+    margin-right: 10px;
+    color: white;
+    font-size: 25px;
+}
