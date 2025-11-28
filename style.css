@@ -185,11 +185,12 @@
         align-items: center;
         width: 90%;
     }
-   .footer-align .d-flex{
-        flex-direction: column;
+   .footer-main-section .d-flex{
+        flex-direction: column !important;
         align-items: center;
-        gap: 25px;
+        gap: 30px;
         width: 100%;
         text-align: center;
     }
+    
 }
